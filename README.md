@@ -1,1 +1,1 @@
-# seaside-slider
+### seaside-slider
